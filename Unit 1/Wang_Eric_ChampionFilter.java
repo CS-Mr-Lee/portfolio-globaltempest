@@ -16,7 +16,7 @@ public class Wang_Eric_ChampionFilter {
 
         //variable declaration
         String champHp = "", champArmor = "";
-        String fileRead = "ChampStats.txt";
+        String fileRead = "champions.json"; 
         String fileWrite = "MaxChampStats.txt";
         String line;
         String currentName = "";

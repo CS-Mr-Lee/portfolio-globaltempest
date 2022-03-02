@@ -1,3 +1,9 @@
+/**
+ * Name: Eric
+ * Class: ICS4U1-1A
+ * Date: Mar 1, 2022
+ * Description: Creates cookie with traits such as name, weight, calories, and if it is packaged
+ */
 public class Cookie {
 
   /*

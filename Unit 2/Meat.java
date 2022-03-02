@@ -1,3 +1,9 @@
+/**
+ * Name: Eric Wang
+ * Class: ICS4U1-1A
+ * Date: Mar 1 2022
+ * Description: Creates meats with traits such as what animal, organ, weight, if meat has bone, and fat content
+ */
 public class Meat {
 
     /*

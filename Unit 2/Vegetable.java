@@ -1,3 +1,9 @@
+/**
+ * Name: Eric
+ * Class: ICS4U1-1A
+ * Date: Mar 1, 2022
+ * Description: creates vegetables with traits such as color, if it is green, name, calories, if it is edible, weight
+ */
 public class Vegetable {
 
     /*

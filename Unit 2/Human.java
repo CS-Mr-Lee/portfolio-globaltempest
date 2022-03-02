@@ -1,3 +1,10 @@
+/**
+ * Name: Eric
+ * Class: ICS4U1-1A
+ * Date: Mar 1, 2022
+ * Description: Creates humans with traits such as nationality,
+ * name, gender, weight, and changing energy levels.
+ */
 public class Human {
 
   private final double MAX_INTAKE = 5;
